@@ -1,11 +1,11 @@
-{
-    "name": "laraveldaily/larastarters",
+123{
+    "name": "medab123/site-admin",
     "description": "Laravel Starter Kits with extra functions",
     "license": "MIT",
     "authors": [
         {
-            "name": "Povilas Korop",
-            "email": "povilas@laraveldaily.com"
+            "name": "Mohammed Elabidi",
+            "email": "mohammed.elabidi@protonmail.com"
         }
     ],
     "autoload": {
